@@ -32,11 +32,6 @@ function fill(boi) {
   
   document.getElementById(boi).innerHTML = document.getElementById("userName").value;
 }
-function snap(person) {
-  document.getElementById("div"+person).innerHTML = "";
-}
-
-
 function adds() {
   for (i=1; i <= 4; i++) {
     if (isFille("dip"+i) === false) {
@@ -58,11 +53,6 @@ function fille(boy) {
   
   document.getElementById(boy).innerHTML = document.getElementById("userNam").value;
 }
-function snaps(persons) {
-  document.getElementById("dip"+persons).innerHTML = "";
-}
-
-
 function addsss() {
   for (i=1; i <= 4; i++) {
     if (isFill("dis"+i) === false) {
@@ -84,11 +74,6 @@ function fillet(boyoy) {
   
   document.getElementById(boyoy).innerHTML = document.getElementById("userN").value;
 }
-function snapsps(personsan) {
-  document.getElementById("dis"+personsan).innerHTML = "";
-}
-
-
 function addss() {
   for (i=1; i <= 4; i++) {
     if (isFill("did"+i) === false) {
@@ -110,11 +95,6 @@ function filled(boyo) {
   
   document.getElementById(boyo).innerHTML = document.getElementById("userNa").value;
 }
-function snapsp(personsa) {
-  document.getElementById("did"+personsa).innerHTML = "";
-}
-
-
 function addssss() {
   for (i=1; i <= 4; i++) {
     if (isFill("dil"+i) === false) {
@@ -136,7 +116,3 @@ function fillets(boyoyo) {
   
   document.getElementById(boyoyo).innerHTML = document.getElementById("user").value;
 }
-function snapsps(personsans) {
-  document.getElementById("dil"+personsans).innerHTML = "";
-}
-
