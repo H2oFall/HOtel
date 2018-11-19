@@ -1,0 +1,93 @@
+body{
+  background-image:red;
+}
+#r1 {
+  width:16.66%;
+  height:55.3%;
+  background-color: red;
+  float:left;
+}
+
+#input {
+   display:none;
+}
+.guest {
+  background-color: blue;
+  width: 100%;
+  height: 40px;
+}
+.guest:hover {
+  background-color: pink;
+}
+#r2 {
+    width:16.66%;
+  height:55.3%;
+  background-color: pink;
+  float:left;
+}
+#r3 {
+  width:16.66%;
+  height:55.3%;
+  background-color: green;
+  float:left;
+}
+#r4 {
+  width:16.66%;
+  height:55.3%;
+  background-color: lightblue;
+  float:left;
+}
+#r5{
+  width:16.66%;
+  height:55.3%;
+  background-color: green;
+  float:left;
+}
+#r6 {
+  width:16.66%;
+  height:55.3%;
+  background-color: lightblue;
+  float:left;
+}
+#stopByTheOrderOfTheJarl:hover {
+  background-color:blue;
+
+}
+#stopByTheOrderOfTheJarl {
+  background-color:lightgreen;
+  width:50px;
+  height:50px;
+  float:right;
+}
+#everyguest{
+  background-color:purple;
+  width:100%;
+  height:30%;
+  float:left;
+  overflow-y: scroll;
+}
+#hotelName{
+  background-color:pink;
+  width:100%;
+  height:14.7%;
+}
+#logo{
+  background-image: url(" Screenshot_58.png ");
+  background-size:cover;
+  float:right;
+  width:14.7%;
+  height:100%;
+  margin:0;
+}
+#nameeoff{
+  float:left;
+  width:25%;
+  height:50%;
+  height:50%;
+}
+
+#nameeoff{
+  float:left;
+  width:25%;
+  height:50%;
+}
